@@ -15,7 +15,7 @@ Read about Creator's other innovations in food safety: http://creator.rest/covid
 - Fabrication: Nick Alatorre, Don Balza, Kevin Vizcaino, Josh De La Rosa, Eric Lewis, Max Goodman
 
 ## Assembly and Operating Instructions
-See the wiki in this repository.
+See the [wiki](https://github.com/creatoreng/Creator-Transfer-Chamber/wiki) in this repository.
 
 ## Disclaimer
 
