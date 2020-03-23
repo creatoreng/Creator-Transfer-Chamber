@@ -13,6 +13,9 @@ See more about COVID-19-Specific operations at Creator: http://creator.rest/covi
 - Systems design & integration: Max Goodman
 - Fabrication: Nick Alatorre, Don Balza, Kevin Vizcaino, Josh De La Rosa, Eric Lewis
 
+## Assembly and Operating Instructions
+See the wiki in this repository.
+
 ## Disclaimer
 
 These design materials are not supported and do not constitute a reference design. We believe the design will significantly reduce the incidence of liquid droplet exchange between customers and staff but we haven’t proven its effectiveness. We executed this project from concept through deployment in three days; consequently we made design decisions based upon speed and materials available, and there may be better designs and materials to achieve our goal. See the attached license agreement for additional warranty and liability disclaimers.
