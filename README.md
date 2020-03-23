@@ -10,8 +10,7 @@ See more about COVID-19-Specific operations at Creator: http://creator.rest/covi
 - Project lead: Michael Balsamo
 - Mechanical design: Wayne Grout
 - Industrial design: Mason Friedberg
-- Systems design & integration: Max Goodman
-- Fabrication: Nick Alatorre, Don Balza, Kevin Vizcaino, Josh De La Rosa, Eric Lewis
+- Fabrication: Nick Alatorre, Don Balza, Kevin Vizcaino, Josh De La Rosa, Eric Lewis, Max Goodman
 
 ## Assembly and Operating Instructions
 See the wiki in this repository.
