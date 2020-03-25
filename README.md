@@ -33,6 +33,7 @@ These design materials are not supported and do not constitute a reference desig
 This project is licensed under the CERN-OLH-P License. See [LICENSE](https://github.com/creatoreng/Creator-Transfer-Chamber/blob/master/LICENSE) for details. The license applies to all content included in this source code repository, and does not include any other intellectual property of Creator. You’ll have to design your own hamburger robot.
 
 ![OSHW US000235](https://github.com/creatoreng/Creator-Transfer-Chamber/blob/master/OSHW_mark_US000235_small.png)
+
 This kit is certified open hardware. See [OSHW_US000235](https://certification.oshwa.org/us000235.html) for certification.
 
 # About Creator
